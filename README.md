@@ -14,11 +14,11 @@ The following **required** functionality is complete:
 * [x] Required: Challenge 1 - Cross-site scripting 1
 * [x] Required: Challenge 2 - Cross-site scripting 2
 * [x] Required: Challenge 3 - Cross-site scripting 3
-* [x] Required: Challenge 3 - Cross-site scripting 4
+* [x] Required: Challenge 4 - Cross-site scripting 4
 
 The following **optional** features are implemented:
 
-* [x] Bouns or Stretch Challenge 4 - Cross-site scripting 5
+* [x] Bouns or Stretch Challenge 5 - Cross-site scripting 5
 
 ## Video Walkthrough
 
